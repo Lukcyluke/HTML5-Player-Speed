@@ -1,5 +1,12 @@
 # HTML5 Player Speed
 
+## Idea
+
+A Safari Extension which allows to change player speeds from the Toolbar or the TouchBar via a slider..
+Also should allow for default speeds for certain websites.
+A reasonable scale could be 0.5-3.0 in 0.25 steps.
+Maybe somewhat exponential towards the end.
+
 #### Resources:
 
 - [SO: Change player speed in HTML5](https://stackoverflow.com/a/3027957)
